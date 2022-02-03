@@ -1,6 +1,6 @@
 # Readme
 
-This repository contains the Python code for replicating the experimental study presented in [1], where an approach to the discovery of DNN-based process-outcome predictors was proposed, in the challenging scenario where only small amounts of labeled process traces are available. The code was applied to the same version of the preprocessed (and labeled) process logs employed in [2] and made available [here](https://github.com/irhete/stability-predictive-monitoring).  
+This repository contains the Python code for replicating the experimental study presented in [1], where an approach to the discovery of DNN-based process-outcome predictors was proposed, in the challenging scenario where only small amounts of labeled process traces are available. The code was applied to the same version of the preprocessed process logs employed in [2] and made available [here](https://github.com/irhete/stability-predictive-monitoring).  
 
 For the sake of usability, the code has been conveniently split into two packages: *source_code_SSOP-MTL.zip* and *source_code_SSOP-PT.zip*. 
 
